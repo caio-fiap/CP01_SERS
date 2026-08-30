@@ -20,7 +20,7 @@ Após tratamento no Orange. Amostra de 20% do dataset original, e seleção de c
 
 ---
 
-## Desafio Final - `Desafio_Final_Energia_ONS_API_FINAL.ipynb`
+## Desafio Final - `Desafio_Final_Energia_ONS_API.ipynb`
 
 Uma equipe de planejamento energético precisa analisar o comportamento da carga elétrica de uma região atendida pelo Sistema Interligado Nacional (SIN).
 
