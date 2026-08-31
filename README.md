@@ -8,12 +8,12 @@ Equipe: Caio Marinho - RM: 572873
 
 Preparação e analise de um conjuntos de dados do setor de energia, relacionando cada operação realizada ao contexto do dataset.
 
-Fonte do dataset 1: https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
-Fonte do dataset 2: https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption  
-Fonte do dataset 3: https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city  
-Fonte do dataset 4: https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
-Fonte do dataset 5: https://www.kaggle.com/datasets/ahmeduzaki/wind-and-solar-energy-production-dataset
-Fonte do dataset 6: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
+Fonte do dataset 1: https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction  
+Fonte do dataset 2: https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption    
+Fonte do dataset 3: https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city    
+Fonte do dataset 4: https://www.kaggle.com/datasets/anikannal/solar-power-generation-data  
+Fonte do dataset 5: https://www.kaggle.com/datasets/ahmeduzaki/wind-and-solar-energy-production-dataset  
+Fonte do dataset 6: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption  
 
 ---
 ## Relação dos Datasets com os Notebooks
