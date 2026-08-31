@@ -4,13 +4,23 @@ Equipe: Caio Marinho - RM: 572873
 
 ---
 
-## Análise de Dados de Energia - `CP01_SERS.ipynb`
+## Análise de Dados de Energia
 
 Preparação e analise de um conjuntos de dados do setor de energia, relacionando cada operação realizada ao contexto do dataset.
 
-Fonte do dataset 2: https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption
-Fonte do dataset 3: https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
+Fonte do dataset 2: https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption  
+Fonte do dataset 3: https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city  
 Fonte do dataset 4: 
+
+---
+
+| Arquivo .csv | Arquivo .ipynb |
+| ----------- | ---------- |
+| steel_data.csv | CP_DS2_SERS.ipynb |
+| tetuan_power.csv | CP_DS3_SERS.ipynb |
+| plant1.csv | CP_DS4_SERS.ipynb |
+| solar-wind.csv | CP_DS5_SERS.ipynb |
+| household.csv | CP_DS6_SERS.ipynb |
 
 ---
 
