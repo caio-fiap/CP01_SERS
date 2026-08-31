@@ -10,12 +10,12 @@ Preparação e analise de um conjuntos de dados do setor de energia, relacionand
 
 | DataSet | Fonte | Arquivo .csv | Arquivo .ipynb |
 | ------- | ----- |----------- | ---------- |
-| 1 | [Appliances Energy Prediction (UCI)](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption) | appliances.csv | CP_DS1_SERS.ipynb |
-| 2 | [Steel Industry Energy Consumption (UCI)](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption) | steel_data.csv | CP_DS2_SERS.ipynb |
-| 3 | [Power Consumption of Tetouan City (UCI)](https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city) | tetuan_power.csv | CP_DS3_SERS.ipynb |
-| 4 | [Solar Power Generation Data (Kaggle)](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data) | plant1.csv | CP_DS4_SERS.ipynb |
-| 5 | [Wind & Solar Energy Production (Kaggle)](https://www.kaggle.com/datasets/ahmeduzaki/wind-and-solar-energy-production-dataset) | wind_solar.csv | CP_DS5_SERS.ipynb |
-| 6 | [Individual Household Electric Power Consumption (UCI)](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption) | household.csv | CP_DS6_SERS.ipynb |
+| 1 | [Appliances Energy Prediction (UCI)](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption) | appliances.csv | CP1_DS1_SERS.ipynb |
+| 2 | [Steel Industry Energy Consumption (UCI)](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption) | steel_data.csv | CP1_DS2_SERS.ipynb |
+| 3 | [Power Consumption of Tetouan City (UCI)](https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city) | tetuan_power.csv | CP1_DS3_SERS.ipynb |
+| 4 | [Solar Power Generation Data (Kaggle)](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data) | plant1.csv | CP1_DS4_SERS.ipynb |
+| 5 | [Wind & Solar Energy Production (Kaggle)](https://www.kaggle.com/datasets/ahmeduzaki/wind-and-solar-energy-production-dataset) | wind_solar.csv | CP1_DS5_SERS.ipynb |
+| 6 | [Individual Household Electric Power Consumption (UCI)](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption) | household.csv | CP1_DS6_SERS.ipynb |
 
 ---
 
